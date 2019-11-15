@@ -1,8 +1,8 @@
 # Simple build bpftrace rpm for Amazon Linux
 
 ```
-$ git clone <this repo>
-$ cd <this repo>
+$ git clone https://github.com/missingcharacter/package-bpftrace.git
+$ cd package-bpftrace
 $ bash create-rpms.sh
 ...
 wait a loooooooooong time
